@@ -2,26 +2,22 @@
 
 <div align="center">
 
-<!-- SYSTEM BOOT -->
-
-```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║       ██████╗  ██████╗ ██████╗ ██      ███████╗             ║
-║      ██╔════╝ ██╔═══██╗██╔══██╗██      ██╔════╝             ║
-║      ██║  ███╗██║   ██║██████╔╝██      █████╗               ║
-║      ██║   ██║██║   ██║██╔══██╗██      ██╔══╝               ║
-║      ╚██████╔╝╚██████╔╝██║  ██║███████╗███████╗             ║
-║       ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝             ║
+║      ██████╗   ██████╗  ██████╗  ██╗      ███████╗         ║
+║      ██╔══██╗ ██╔═══██╗ ██╔══██╗ ██║      ██╔════╝         ║
+║      ██║  ██║ ██║   ██║ ██████╔╝ ██║      █████╗           ║
+║      ██║  ██║ ██║   ██║ ██╔══██╗ ██║      ██╔══╝           ║
+║      ██████╔╝ ╚██████╔╝ ██║  ██║ ███████╗ ███████╗         ║
+║      ╚═════╝   ╚═════╝  ╚═╝  ╚═╝ ╚══════╝ ╚══════╝         ║
 ║                                                              ║
 ║                  SYSTEM INITIALIZING...                     ║
 ║                                                              ║
 ║                  [████████████████] 100%                    ║
 ║                                                              ║
 ║              DIGITAL MIND // ONLINE                         ║
+║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
-```
-
 ### `> SYSTEM STATUS: ONLINE`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Digital+Communication+%C3%97+Technology;Building+ideas+into+digital+experiences;Automation+%C3%97+Data+%C3%97+Design+%C3%97+Code;Turning+problems+into+systems;Welcome+to+my+digital+workspace..." alt="Typing Animation"/>
@@ -129,6 +125,7 @@ gabriela@digital-lab:~$ status
 | 🐍 **Python**      | Automation, data analysis and backend experimentation |
 | ⚛️ **React**       | Interactive digital interfaces                        |
 | 🟦 **TypeScript**  | Scalable and safer application development            |
+| 🟨 **JavaScript**  | Web development and interactive applications          |
 | 🟢 **Node.js**     | Backend services and APIs                             |
 | 🗄️ **PostgreSQL** | Relational data storage                               |
 | ⚡ **Supabase**     | Database, authentication and backend infrastructure   |
@@ -283,12 +280,12 @@ VISUALIZATION
 │ PROJECT DATABASE                                            │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
-│ 01  Brand Alert Bot       → Digital monitoring              │
-│ 02  Hackathon Hub         → Project management              │
-│ 03  Municipal Transparency→ Data visualization               │
-│ 04  Calendar LACOM        → Organizational technology        │
-│ 05  Chega+                → Events + social experience       │
-│ 06  A2 JOSIR              → Process automation               │
+│ 01  Brand Alert Bot        → Digital monitoring              │
+│ 02  Hackathon Hub          → Project management              │
+│ 03  Municipal Transparency → Data visualization              │
+│ 04  Calendar LACOM         → Organizational technology       │
+│ 05  Chega+                 → Events + social experience      │
+│ 06  A2 JOSIR               → Process automation              │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -335,56 +332,6 @@ gabriela@future-lab:~$ ./next_step
 
 ---
 
-# ◈ ACTIVITY_GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=C9D1D9&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-# ◈ TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
-
----
-
-# ◈ CONTRIBUTION_MATRIX
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
-
----
-
-# ◈ DIGITAL_NETWORK
-
-<div align="center">
-
-<a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="SEU_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="SEU_GITHUB">
-<img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 ```text
@@ -394,16 +341,14 @@ gabriela@future-lab:~$ ./next_step
 │                                                              │
 │       COMMUNICATION  ×  TECHNOLOGY  ×  CREATIVITY           │
 │                                                              │
-│                    KEEP BUILDING.                           │
+│                    KEEP BUILDING.                            │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
 ```
 
 ### `// Thanks for entering my digital space.`
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS"/>
-
-<br><br>
+<br>
 
 `© 2026 Gabriela Dorle · Digital Communication × Technology`
 
