@@ -2,6 +2,7 @@
 
 <div align="center">
 
+```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║      ██████╗   ██████╗  ██████╗  ██╗      ███████╗         ║
@@ -18,6 +19,8 @@
 ║              DIGITAL MIND // ONLINE                         ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
+```
+
 ### `> SYSTEM STATUS: ONLINE`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Digital+Communication+%C3%97+Technology;Building+ideas+into+digital+experiences;Automation+%C3%97+Data+%C3%97+Design+%C3%97+Code;Turning+problems+into+systems;Welcome+to+my+digital+workspace..." alt="Typing Animation"/>
@@ -40,15 +43,15 @@
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
 │ NAME       :: Gabriela Dorle                                 │
-│ FIELD      :: Digital Communication                           │
+│ FIELD      :: Digital Communication                          │
 │ UNIVERSITY :: Fundação Getulio Vargas                        │
 │ ROLE       :: Management Analyst @ LACOM Jr.                 │
 │                                                              │
 │ INTERESTS  :: Technology · Programming · Management          │
-│              Automation · Data · Digital Communication        │
+│              Automation · Data · Digital Communication       │
 │                                                              │
-│ MISSION    :: Build systems that make people and              │
-│              organizations work smarter.                      │
+│ MISSION    :: Build systems that make people and             │
+│              organizations work smarter.                     │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
@@ -280,12 +283,12 @@ VISUALIZATION
 │ PROJECT DATABASE                                            │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
-│ 01  Brand Alert Bot        → Digital monitoring              │
-│ 02  Hackathon Hub          → Project management              │
-│ 03  Municipal Transparency → Data visualization              │
-│ 04  Calendar LACOM         → Organizational technology       │
-│ 05  Chega+                 → Events + social experience      │
-│ 06  A2 JOSIR               → Process automation              │
+│ 01  Brand Alert Bot        → Digital monitoring             │
+│ 02  Hackathon Hub          → Project management             │
+│ 03  Municipal Transparency → Data visualization             │
+│ 04  Calendar LACOM         → Organizational technology      │
+│ 05  Chega+                 → Events + social experience     │
+│ 06  A2 JOSIR               → Process automation             │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
