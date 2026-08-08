@@ -334,7 +334,6 @@ gabriela@future-lab:~$ ./next_step
 </div>
 
 ---
-
 <div align="center">
 
 ```text
